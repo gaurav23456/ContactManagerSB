@@ -1,4 +1,4 @@
-# ContactManagerSB
+# ContactManagerSPringBoot
 contatc manager website using spring boot
 
 Home page
